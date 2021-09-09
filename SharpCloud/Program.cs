@@ -228,7 +228,7 @@ namespace SharpCloud
                     }
                 }
                 Console.WriteLine(Environment.NewLine + "[+] Job's done! Press Enter to continue.");
-                Console.Read();
+                //Console.Read();
             }
             else {
                 Usage();
